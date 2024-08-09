@@ -1,3 +1,5 @@
-dash
-Flask
-requests
+streamlit>=1.25.0
+pandas>=2.1.0
+scikit-learn>=1.3.1
+joblib>=1.3.2
+numpy>=1.24.0
